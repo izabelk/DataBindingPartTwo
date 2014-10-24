@@ -1,0 +1,14 @@
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\bin\Earth.dll.config
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\bin\Earth.dll
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\bin\Earth.pdb
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\bin\Earth.Data.dll
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\bin\Earth.Models.dll
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\bin\EntityFramework.dll
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\bin\EntityFramework.SqlServer.dll
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\bin\Earth.Data.pdb
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\bin\Earth.Models.pdb
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\bin\EntityFramework.xml
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\bin\EntityFramework.SqlServer.xml
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\obj\Debug\Earth.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\obj\Debug\Earth.dll
+D:\Telerik\Homework\WebForms\DataBindingPartTwo\Earth\obj\Debug\Earth.pdb
